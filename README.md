@@ -1,7 +1,7 @@
 # Kafka-Spark Streaming Project
 
 ## Overview
-This project implements a data streaming pipeline using Apache Kafka and Apache Spark. It generates fake user data, streams it through Kafka, processes it with Spark, and stores it in a PostgreSQL database.
+This project serves as a showcase to demonstrate the implementation of data streaming pipeline. It highlights the integration of key technologies like Apache Kafka for data streaming, Apache Spark for real-time data processing. The project aims to provide a comprehensive example of building and deploying real-time data processing applications.
 
 ## Components
 - **Kafka Producer**: Generates fake user data and sends it to a Kafka topic.
